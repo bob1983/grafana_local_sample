@@ -1,4 +1,4 @@
-# telegraf_influxdb_sample
+# grafana_local_sample
 ## Usage
 
 `docker-compose up`
